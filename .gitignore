@@ -1,0 +1,6 @@
+*.save
+*.exe
+*.o
+*.out
+bin/
+obj/
